@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pocketBook-website/static/css/main.da6129e6.chunk.css",
+    "main.js": "/pocketBook-website/static/js/main.0d8b557c.chunk.js",
+    "main.js.map": "/pocketBook-website/static/js/main.0d8b557c.chunk.js.map",
+    "runtime-main.js": "/pocketBook-website/static/js/runtime-main.8a689cf0.js",
+    "runtime-main.js.map": "/pocketBook-website/static/js/runtime-main.8a689cf0.js.map",
+    "static/js/2.327db450.chunk.js": "/pocketBook-website/static/js/2.327db450.chunk.js",
+    "static/js/2.327db450.chunk.js.map": "/pocketBook-website/static/js/2.327db450.chunk.js.map",
+    "index.html": "/pocketBook-website/index.html",
+    "precache-manifest.1ac189db417b58c7122f1d231f086126.js": "/pocketBook-website/precache-manifest.1ac189db417b58c7122f1d231f086126.js",
+    "service-worker.js": "/pocketBook-website/service-worker.js",
+    "static/css/main.da6129e6.chunk.css.map": "/pocketBook-website/static/css/main.da6129e6.chunk.css.map",
+    "static/js/2.327db450.chunk.js.LICENSE.txt": "/pocketBook-website/static/js/2.327db450.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a689cf0.js",
+    "static/js/2.327db450.chunk.js",
+    "static/css/main.da6129e6.chunk.css",
+    "static/js/main.0d8b557c.chunk.js"
+  ]
+}
